@@ -1,0 +1,18 @@
+NAME = HTML
+ROOT = iki1uc
+SYSTEM = 6E
+MODUL = HTML
+DIM = D2
+
+ROLLE = Struktur / Ordnung / Syntax / Aufbau
+FUNKTION = zentrale Strukturachse für Cluster / Gates / Wurmloch / ALL
+
+POSITION = D2 (Struktur-Achse)
+PARITY = D4 ↔ D5 (Master/Slave)
+TMP-LAEUFER = SYQ (Übergangs-Stabilisator)
+
+STABILITAET = 12e (Struktur in jede Richtung)
+MODE = REAL-LIVE
+
+STATUS = STABIL
+READY = 100%
